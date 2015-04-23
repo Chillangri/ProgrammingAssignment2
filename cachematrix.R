@@ -6,13 +6,13 @@
 ##                   > t$set(tempX)
 ##   3) Using cacheSolve() function, find an inverse
 ##      if there is no chched inverse value, this function will find inverse
-##      for example: > chcheSolve(t)
+##      for example: > cacheSolve(t)
 ##                         [,1] [,2] [,3]
 ##                   [1,]  -24   18    5
 ##                   [2,]   20  -15   -4
 ##                   [3,]   -5    4    1
 ##       if there is a cached value, this function will show the cached value
-##      for example: > chcheSolve(t)
+##      for example: > cacheSolve(t)
 ##                   getting cached data
 ##                         [,1] [,2] [,3]
 ##                   [1,]  -24   18    5
